@@ -3,4 +3,4 @@
 # Course: PhP
 # Instructor: Rich Freeman
 
-Hello there Mr. Rich, this is my lab 2 file.
+Hello there Mr. Rich, this is my lab 2 file. I have built a fully functioning website with edit and delete features.
